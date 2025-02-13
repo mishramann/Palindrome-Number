@@ -20,6 +20,6 @@ public class fibonacciSeries{
             secondTerm = nextTerm; // Update secondTerm
 
             count++; // Increment the counter
-        }
+        }  
     }
 }
